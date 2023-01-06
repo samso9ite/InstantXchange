@@ -1,0 +1,1 @@
+[27-Aug-2021 14:08:37 UTC] PHP Fatal error:  Interface 'Dotenv\Repository\Adapter\AvailabilityInterface' not found in /home2/instant8/public_html/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 8

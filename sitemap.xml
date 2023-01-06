@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://instantexchange.com.ng/</loc>
+  <lastmod>2021-05-05T08:37:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://instantexchange.com.ng/login</loc>
+  <lastmod>2021-05-05T08:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://instantexchange.com.ng/testimony</loc>
+  <lastmod>2021-05-05T08:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://instantexchange.com.ng/register</loc>
+  <lastmod>2021-05-05T08:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://instantexchange.com.ng/privacy-policy</loc>
+  <lastmod>2021-05-05T08:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://instantexchange.com.ng/blog/</loc>
+  <lastmod>2020-10-24T15:27:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

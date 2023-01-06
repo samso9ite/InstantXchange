@@ -1,0 +1,16 @@
+{
+    "name": "Instant Exchange",
+    "short_name": "InstantXchange",
+    "start_url": "/",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "asset/images/icon-logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f51f8a",
+    "background_color": "#f51f8a",
+    "display": "standalone"
+}

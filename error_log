@@ -1,0 +1,23 @@
+[29-Feb-2020 09:15:39 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 16
+[29-Feb-2020 09:15:42 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 16
+[29-Feb-2020 09:15:43 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 16
+[29-Feb-2020 09:15:45 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 16
+[14-Jun-2020 16:56:52 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 210
+[14-Jun-2020 16:56:54 Africa/Lagos] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home2/instant8/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[02-Jul-2020 04:39:22 Africa/Lagos] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home2/instant8/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[28-Sep-2020 01:06:39 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 210
+[27-Apr-2021 15:42:25 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 17
+[27-Apr-2021 15:43:18 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 17
+[12-Jun-2021 05:27:39 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home2/instant8/public_html/application//libraries/REST_Controller.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/instant8/public_html/application/controllers/api/Authe.php on line 3
+[12-Jun-2021 05:27:45 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home2/instant8/public_html/application//libraries/REST_Controller.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/instant8/public_html/application/controllers/api/Authe.php on line 3
+[12-Jun-2021 05:28:33 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home2/instant8/public_html/application/libraries/REST_Controller.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/instant8/public_html/application/controllers/api/Authe.php on line 3
+[12-Jun-2021 05:28:35 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home2/instant8/public_html/application/libraries/REST_Controller.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/instant8/public_html/application/controllers/api/Authe.php on line 3
+[12-Jun-2021 05:29:46 Africa/Lagos] PHP Fatal error:  Class 'RestController' not found in /home2/instant8/public_html/application/controllers/api/Authe.php on line 7
+[12-Jun-2021 05:58:11 Africa/Lagos] PHP Fatal error:  Class 'chriskacerguis\RestServer\Format' not found in /home2/instant8/public_html/application/libraries/RestController.php on line 658
+[12-Jun-2021 05:58:22 Africa/Lagos] PHP Fatal error:  Class 'chriskacerguis\RestServer\Format' not found in /home2/instant8/public_html/application/libraries/RestController.php on line 658
+[12-Jun-2021 13:23:59 Africa/Lagos] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::on() in /home2/instant8/public_html/application/models/Trade.php on line 47
+[24-Jun-2021 15:51:07 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 17
+[10-Sep-2021 10:18:36 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 249
+[10-Sep-2021 10:18:38 Africa/Lagos] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home2/instant8/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[25-Sep-2021 12:24:12 Africa/Lagos] PHP Fatal error:  Call to a member function num_rows() on boolean in /home2/instant8/public_html/application/controllers/Home.php on line 217
+[28-Sep-2021 08:15:25 Africa/Lagos] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home2/instant8/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
